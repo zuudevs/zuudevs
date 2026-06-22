@@ -31,12 +31,11 @@ constructing my software from the ground up.
     ![Go](https://img.shields.io/badge/Go-555555?style=flat-square&logo=go&logoColor=white)
     ![TS](https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white)
     ![JS](https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-555555?style=flat-square&logo=java&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-555555?style=flat-square&logo=openjdk&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-555555?style=flat-square&logo=php&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat-square&logo=mysql&logoColor=white)
 + TOOLS
   ![Linux](https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-555555?style=flat-square&logo=windows&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
   ![CMake](https://img.shields.io/badge/CMake-555555?style=flat-square&logo=cmake&logoColor=white)
 
